@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en" data-framework="intercoolerjs">
+<head>
+    <meta charset="utf-8">
+    <title>Spark & intercooler</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+    <div id="info">
+        <p>$nome</p>
+    </div>
+</body>
+</html>
